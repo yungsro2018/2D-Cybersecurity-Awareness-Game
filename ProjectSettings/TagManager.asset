@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 3
-  tags: []
+  tags:
+  - TouristGuide
   layers:
   - Default
   - TransparentFX
@@ -12,8 +13,8 @@ TagManager:
   - Water
   - UI
   - Ground
-  - 
-  - 
+  - Player
+  - TouristGuide
   - 
   - 
   - 
@@ -41,8 +42,11 @@ TagManager:
   - name: Background
     uniqueID: 3399862993
     locked: 0
-  - name: Characters
+  - name: TouristGuide
     uniqueID: 3207187123
+    locked: 0
+  - name: Player
+    uniqueID: 1537352323
     locked: 0
   - name: Default
     uniqueID: 0
