@@ -8,6 +8,21 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/cyberTravel/Scenes/Level 1.unity
+    guid: 66343fe243f907b45b28ac6e810120ab
+  - enabled: 1
+    path: Assets/cyberTravel/Scenes/Level 2.unity
+    guid: b3979f9f717531c439727caa4a4d9a35
+  - enabled: 1
+    path: Assets/cyberTravel/Scenes/Level 3.unity
+    guid: d99115bf642d1b042846f03ff7101b23
+  - enabled: 1
+    path: Assets/cyberTravel/Scenes/Level 4.unity
+    guid: 3b1e7cd69fa088442827cedcdbf0cf7a
+  - enabled: 1
+    path: Assets/cyberTravel/Scenes/Level 5.unity
+    guid: e9181d273d105df419a9817679ef8a9b
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
